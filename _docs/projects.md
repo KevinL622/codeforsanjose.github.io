@@ -12,7 +12,7 @@ permalink: /docs/projects/
     <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
     <h3 class="text-center">Create</h3>
     <p>
-    Start a new project as a project coodinator, or join one of the existing multidisciplinary teams. </p>
+    Start a new project as a project coordinator, or join one of the existing multidisciplinary teams. </p>
     <p>
     Collaborate with a team to take a project from needs analysis to deployment.</p>
     <p><a class="btn btn-primary btn-lg" href="https://github.com/codeforsanjose" role="button">Join us on Github</a></p>
